@@ -4,7 +4,7 @@ permalink: /dln/
 author_profile: false
 ---
 
-## Title
+## Placeholder title
 
 As a 20-year-old university student, I embarked on a transformative journey by enrolling in an introductory course in digital humanities. What made this experience particularly enriching was the diverse group of classmates who joined me. Our majors spanned a wide spectrum of disciplines, including Computer Science, Interactive Media, Film and New Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing. Together, we have explored digital literacy, each bringing a unique set of strategies and skills into the classroom.
 

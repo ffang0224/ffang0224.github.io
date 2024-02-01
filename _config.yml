@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Fausto Fang"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpeg"
   bio    : "CS + Interactive Media @ NYUAD."
   links:
     - label: "Website"
