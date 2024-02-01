@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website for course IM-UH 1511.
 twitter_username: username
 github_username: ffang0224
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
