@@ -24,7 +24,7 @@ Our critical reflection on our current abilities led us to appreciate the concep
 
 ### _Learnings_
 
-Digital humanities has broadened our horizons, offering fresh perspectives on our respective fields of study. We began to contemplate the ethical implications of AI and data usage within our disciplines. Computer Science majors questioned the ethical responsibilities of AI developers, while Literature and Creative Writing students considered the impact of AI-generated content on storytelling. Interactive Media students explored the possibilities of AI-generated art, and Business and Marketing students delved into AI-driven market analysis.
+Digital humanities has broadened our horizons, offering fresh perspectives on our respective fields of study. We began to contemplate the [ethical implications of AI](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence) and data usage within our disciplines. Computer Science majors questioned the ethical responsibilities of AI developers, while Literature and Creative Writing students considered the impact of AI-generated content on storytelling. Interactive Media students explored the possibilities of AI-generated art, and Business and Marketing students delved into AI-driven market analysis.
 
 ### _Objectives and Goals_
 
