@@ -25,7 +25,7 @@ For those who do not know, **Tableau** is a popular interactive data visualizati
 This is a widely used software in every field that applies data visualization. In my case, I decided to utilize the Tableau Public version of this software. The key capacities are fundamentally the same, but the other versions that NYU provides access to required a prior registration and verification process.
 
 This is an example taken from a sample provided in class, which I inputted into Tableau:
-![example1](..\assets\images\TableauExample1.png)
+![example1](/assets\images\TableauExample1.png)
 
 At first glance, it might look very similar to a Microsoft Excel file. Well, that is because the data is extracted from an Excel FIle. However, the capacities of Tableau go beyond that. One of the best things that we can do in Tableau is representing multiples types of data. In general, many softwares are able to process text data easily. Also, numbers tend to be easy to represent too. Actually, Excel and Sheets can definitely show that. But what happens to other types of data? More importantly, what about the context of our data?
 
@@ -33,7 +33,7 @@ At first glance, it might look very similar to a Microsoft Excel file. Well, tha
 Data is nothing if we put do not add context to it. Let's ask ourselves one question (This is a rethoric quesiton that was presented in class): Is a 100 a lot?
 If we were to say **100 diamonds**, that would sound like a big number. After all, diamonds are rare. What about **100 rocks**? That doesn't sound as exciting, right? That is exactly what happens to data. The number, the text, the information itself is irrelevant if we don't pair it with its appropiate context.
 
-From now one, for this post, I will be using an Excel Spreadsheet that contains multiple [Olympic medalists](../assets/spreadsheets/OlympicAthletes.xlsx). 
+From now one, for this post, I will be using an Excel Spreadsheet that contains multiple [Olympic medalists](/assets/spreadsheets/OlympicAthletes.xlsx). 
 
 This is what the raw data looks like when we look at the country field:
 
