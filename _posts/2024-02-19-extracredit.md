@@ -37,14 +37,14 @@ From now one, for this post, I will be using an Excel Spreadsheet that contains 
 
 This is what the raw data looks like when we look at the country field:
 
-![example4](..\assets\images\TableauExample4.png)
+![example4](/assets\images\TableauExample4.png)
 
 Very pretty and organized. However, as someone who is not especially proficient at locating countries in the map, I tend to not take too much value into this information. 
 
 Here is what Tableau will automatically show us when we select the country field:
 
 
-![example2](..\assets\images\TableauExample2.png)
+![example2](/assets\images\TableauExample2.png)
 
 Here we can clearly see all the countries that are represented in medalist spreadsheet. This way, not only we can notice certain tendencies and patterns, but also we can easily identify multiple countries that did not win a single medal (or are not figured in the spreadsheet).
 
@@ -53,11 +53,11 @@ Context matters, and the way we show data too. Personally, after this workshop, 
 
 Here we will show an easy example of what I mean. In the following picture, we can see a list of every single medal winner included in our data source. This is a simple horizontal bar graph with each bar representing the age of the athelete. This is a simplistic and elegant way of portraying the ages. In this case, this graph could be the answer to a question such as "Who is the oldest/youngest athlete?". It is very important, because the main component here that our human eye will perceive is the length of the bar. We do not put too much emphasis on how old they are, nor do we have to remember who was the oldest/youngest so far: all we care about is the maximum and minimum age, which we will easily recognize by finding the longest/shortest bar.
 
-![example5](..\assets\images\TableauExample5.png)
+![example5](/assets\images\TableauExample5.png)
 
 What about this graph? This graph is a bar graph that displays the age of the athletes, but this time divided by country. 
 
-![example6](..\assets\images\TableauExample6.png)
+![example6](/assets\images\TableauExample6.png)
 
 The question this time could be "Who is the oldest/youngest athlete **in X country**?". In this graph, we will identify it easily by seeing the graph and doing the same thing we did previously. 
 
@@ -66,9 +66,9 @@ In conclusion, I was very satisfied with what I learned in this workshop. Not on
 
 ## Links
 
-- [Olympic Atheletes Spreadsheet](..\assets\spreadsheets\OlympicAthletes.xlsx)
+- [Olympic Atheletes Spreadsheet](/assets\spreadsheets\OlympicAthletes.xlsx)
 - [NYU Library Guide for Tableau](https://guides.nyu.edu/viz/tableau)
 - [Slides for the workshop](https://docs.google.com/presentation/d/18ec2H10MVbP2E0Exe-QGKDZWBzjjfPxjP-A-kJAdEms/edit?usp=sharing)
-- [Attendance Confirmation](..\assets\images\confirmation.png)
+- [Attendance Confirmation](/assets\images\confirmation.png)
 
 
