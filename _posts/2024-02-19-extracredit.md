@@ -71,4 +71,4 @@ In conclusion, I was very satisfied with what I learned in this workshop. Not on
 - [Slides for the workshop](https://docs.google.com/presentation/d/18ec2H10MVbP2E0Exe-QGKDZWBzjjfPxjP-A-kJAdEms/edit?usp=sharing)
 - [Attendance Confirmation](/assets\images\confirmation.png)
 
-
+**READY FOR GRADING**
