@@ -1,1 +1,1 @@
-## Personal website for Introduction to Digital (arts?) and Humanities 
+## Personal website for Introduction to Digital Arts and Humanities 
