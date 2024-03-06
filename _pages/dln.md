@@ -33,3 +33,5 @@ Looking ahead, I am excited to continue our exploration of new ways of thinking 
 ### _Conclusion_
 
 In conclusion, our journey through digital humanities will prove to be transformative. It expands our horizons, bridges the gap between technology and the humanities, and equips us with a multifaceted understanding of digital literacy. As we continue to navigate the digital landscape, we are poised to embrace new ways of thinking and working that promote interdisciplinary collaboration and responsible digital citizenship. In the age of AI, we are ready to embrace the challenges and opportunities that lie ahead.
+
+**READY FOR GRADING**
