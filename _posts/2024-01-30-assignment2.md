@@ -17,24 +17,24 @@ tags:
 
 ## Introduction
 
-This assignment will focus on the works of writer Arthur Conan Doyle, commonly known for creating the character Sherlock Holmes, arguably the most popular fictional detective of all time. Specifically, we will be diving into the textual characteristics of 3 of his most known works, identifying the differences, the context and the information this data brings to our knowledge of the author. 
+This assignment will focus on the works of writer Arthur Conan Doyle, commonly known for creating the character Sherlock Holmes, arguably the most popular fictional detective of all time. Specifically, we will be diving into the textual characteristics of 3 of his most known works, identifying the differences, the context, and the information this data brings to our knowledge of the author. 
 
 ![Arthur Conan Doyle](/assets\images\arthurconandoyle.png)
 
 First and foremost, we will present the 3 texts we will be working with throughout the assignment, all of them extracted from [Project Gutemberg](https://www.gutenberg.org/):
-- ***A Study in Scarlet***: A novel published in 1887 that marks the first appearance of Sherlock Holmes and Dr. Watson. The first full-length novel that included the detective duo, it initially attracted very little public interest but later on became one of the most popular Sherlock Holmes stories. 
+- ***A Study in Scarlet***: A novel published in 1887 that marks the first appearance of Sherlock Holmes and Dr. Watson. The first full-length novel that included the detective duo initially attracted very little public interest but later on became one of the most popular Sherlock Holmes stories. 
 - ***The Adventures of Sherlock Holmes***: A collection of short stories published in 1892.  It contains the earliest short stories featuring the detective Sherlock Holmes, earning immense popularity for both Sherlock Holmes and Dr. Watson.
-- ***The Memoirs of Sherlock Holmes***: A collection of short stories first published late in 1893. Initially supposed to be the last Sherlock Holmes stories, this book presents 12 stories that ultimately ends with the "death" of Sherlock Holmes.
+- ***The Memoirs of Sherlock Holmes***: A collection of short stories first published late in 1893. Initially supposed to be the last Sherlock Holmes story, this book presents 12 stories that ultimately end with the "death" of Sherlock Holmes.
 
 ### Rationale:
 Arthur Conan Doyle is one of the, if not the most popular writers in the history of crime fiction. His works transcended language and race, and his character, *Sherlock Holmes*, went on to become the most famous (fictional or not) detective of all time.\
-One of the biggest motives behind choosing his works as study subjects is the variety of content he presented throughout his career. In 1891, Doyle intended to kill *Sherlock Holmes*, so he raised his price to a level intended to discourage the publishers that demanded more stories. However,  he later realized they were willing to pay even the large sums he asked, forcing him to create multiple plot twists that made *Sherlock Holmes* stories a rollercoaster of events.
+One of the biggest motives behind choosing his works as study subjects is the variety of content he presented throughout his career. In 1891, Doyle intended to kill *Sherlock Holmes*, so he raised his price to a level intended to discourage the publishers that demanding more stories. However,  he later realized they were willing to pay even the large sums he asked, forcing him to create multiple plot twists that made *Sherlock Holmes* stories a rollercoaster of events.
 
 ![scarlet](/assets\images\scarlet.png)\
 *A Study in Scarlet, 1887* 
 
-The reason behind choosing these 3 works is the similarity, yet disparity they present. First of all, they are not presented in the same format. Although ***"A Study in Scarlet*** is a full-length novel, the other 2 works are series of short stories.\
-In addition, it is important to note the dates in which Arthur Conan Doyle published the stories. After ***"A Study in Scarlet***, *Sherlock Holmes* received a boost in popularity that was further accentuated with the publishing of ***The Adventures of Sherlock Holmes***.\
+The reason behind choosing these 3 works is the similarity, yet disparity they present. First of all, they are not presented in the same format. Although ***"A Study in Scarlet*** is a full-length novel, the other 2 works are a series of short stories.\
+In addition, it is important to note the dates on which Arthur Conan Doyle published the stories. After ***"A Study in Scarlet***, *Sherlock Holmes* received a boost in popularity that was further accentuated with the publishing of ***The Adventures of Sherlock Holmes***.\
 Therefore, we will note certain differences in Doyle's writing style, mostly due to the sudden increase in audience and the fact that he intended to kill the character of *Sherlock Holmes* in ***The Memoirs of Sherlock Holmes***, a very sensitive plot move that forced him to focus on the character development of the detective. Although he did so, due to public backlash, he ultimately ended up reviving the character in further works.
 
 ## Analysis
@@ -53,17 +53,17 @@ In this part, we worked with **Voyant Tools** in order to textually analyze the 
 \
 ![all texts](/assets\images\alltexts.png)
 
-This **word cloud** we see here presents the 95 most common terms throughout the 3 works. We can clearly see various common words that at first glance might not provide much useful information, but once we put them in context they are more meaningful that they look.
+This **word cloud** we see here presents the 95 most common terms throughout the 3 works. We can clearly see various common words that at first glance might not provide much useful information, but once we put them in context they are more meaningful than they look.
 
-> In order to analyze this properly, we will ignore words such as "gutenberg", "project", "just", "quite", etc...\
+> To analyze this properly, we will ignore words such as "gutenberg", "project", "just", "quite", etc...\
 These are just words that appear either due to the fact that we obtained the raw text from Project Gutemberg or because they are part of basic English grammar.
 
-For example, take the word **"room"**. One might assume that this is just due to the fact that it is a daily-use English word. However, if we think about it deeply, it would not be utilized with such a frequence in normal sentences.
+For example, take the word **"room"**. One might assume that this is just due to the fact that it is a daily-use English word. However, if we think about it deeply, it would not be utilized with such a frequency in normal sentences.
 
 ![room](/assets\images\room.png)\
 *Word count for the word "room" throughout the entire corpus*
 
-If we look at the word occurrence for the word "room" and its variations ("rooms", mostly), we will see that the word in mentioned a total of **474** times, an huge amount for such a specific word.\
+If we look at the word occurrence for the word "room" and its variations ("rooms", mostly), we will see that the word is mentioned a total of **474** times, a huge amount for such a specific word.\
 Once we link it with the context of the works, it all makes sense: *Sherlock Holmes*, being a detective, often has to examine the room and analyze the hints that will lead him to the suspect. Logically, this word will appear very often if we additionally consider the root behind the name of the first novel: ***"A Study in Scarlet"***.\
 The book's title derives from a speech given by Holmes, a consulting detective, to his friend and chronicler Watson on the nature of his work, in which he describes the story's murder investigation as his **"study in scarlet"** inside the room. Similarly to this, we can also find multiple words that fit the detective genre, such as "case", "police" and "inspector".
 
@@ -73,37 +73,37 @@ The book's title derives from a speech given by Holmes, a consulting detective, 
 
 ---
 
-Looking through a more general perspective, we can derive some information from other tools in **Voyant Tools**. For example, the place where find the occurrences of certain word can help us determine some information.
+Looking through a more general perspective, we can derive some information from other tools in **Voyant Tools**. For example, the place where find the occurrences of certain words can help us determine some information.
 
 <iframe style='width: 509px; height: 366px;' src='https://voyant-tools.org/tool/MicroSearch/?lang=en&query=sherlock*&panels=corpusterms%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=d2010ebf841098c77408308469ac183e'></iframe>
 
 *Occurrences of the word "Holmes" in "A Study in Scarlet"*
 
-*Sherlock Holmes* stories tell a criminal fiction tale that usually involves a crime, an investigation and finally, a resolution by the detective. ***"A Study in Scarlet"*** is no exception to this pattern.
+*Sherlock Holmes* stories tell a criminal fiction tale that usually involves a crime, an investigation, and finally, a resolution by the detective. ***"A Study in Scarlet"*** is no exception to this pattern.
 
  We can see that the word **"Holmes"** is very mentioned in the **first half**, decays entering the **start of the second half** and **finishes** towards the end with a few stellar apparitions. This is due to the fact that the second half usually includes the crime itself, in which our detective does not take part.\
-Holmes only appears to resolve the conflict, to capture the criminal in the most essential *Sherlock Holmes* style, with little collaboration with the police and taking the credit for it.
+Holmes only appears to resolve the conflict, to capture the criminal in the most essential *Sherlock Holmes* style, with little collaboration with the police and taking credit for it.
 
-Additionally, we can also see the tendency of certain topics, words and contexts inside the works themselves. For example, let's take a look at the word **"watson"**.
+Additionally, we can also see the tendency of certain topics, words, and contexts inside the works themselves. For example, let's take a look at the word **"watson"**.
 
 ![watson](/assets\images\watson.png)\
-*In order left to right: "The Adventures of Sherlock Holmes","A Study in Scarlet" and "The Memoirs of Sherlock Holmes"*
+*In order left to right: "The Adventures of Sherlock Holmes", "A Study in Scarlet" and "The Memoirs of Sherlock Holmes"*
 
 We can see a clear dip in the occurrence of the word in ***"A Study in Scarlet"***.
 
 > Note: This diagram depicts the *relative* occurrence of the word, which compares it to the total amount of words in the document. Therefore, the length of each document does not pose a significant change. 
 
-This is due to the fact that Dr. Watson is only introduced in the first novel, and obtains a much more relevant roles in the stories that follow. Initially, this character is nothing more than just a loyal sidekick, and his life is not documented/explained in such detailed in ***"A Study in Scarlet"*** compared to the other works.
+This is due to the fact that Dr. Watson is only introduced in the first novel, and obtains a much more relevant role in the stories that follow. Initially, this character is nothing more than just a loyal sidekick, and his life is not documented/explained in such detail in ***"A Study in Scarlet"*** compared to the other works.
 
 ## Conclusion and Learnings
 
 In conclusion, analyzing books through the textual information provided is a valuable tool that can complement the background we have. It can help us determine patterns, visualize occurrences of phrases and words, and even provide surprising statistics about the texts.
 
-By looking at the text through these tools, we are able to notice things that are impossible/very hard to remark without computer-assisted analysis. For example, I was surprised to see that the word "Watson" was not as popular as other. However, it makes more sense once we consider the fact that the works we included do not delve deep into the life of Dr. Watson, specially ***"A Study in Scarlet"***. Noticing this fact would have taken hours, days and maybe weeks of analyzing the text meticously by hand, but with the digital format and the tools provided, we did a quick inference in matter of minutes.
+By looking at the text through these tools, we can notice things that are impossible/very hard to remark without computer-assisted analysis. For example, I was surprised to see that the word "Watson" was not as popular as others. However, it makes more sense once we consider the fact that the works we included do not delve deep into the life of Dr. Watson, especially ***"A Study in Scarlet"***. Noticing this fact would have taken hours, days, and maybe weeks to analyze the text meticulously by hand, but with the digital format and the tools provided, we did a quick inference in a matter of minutes.
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?lang=en&panels=cirrus%2Creader%2Cmicrosearch%2Csummary%2Ccontexts&corpus=d2010ebf841098c77408308469ac183e'></iframe>
 
-Although we were not able to see exactly the difference in Doyle's writing style that I expected to see, it was highly valuable to see the trends of each word and specially, the number of appearances of each word throughout the corpus. I personally consider that this tool will be essential any time I analyze texts and works from any author and even in multiple languages. I hope I can keep getting familiarized with the concept of textual analysis and I wish to apply it in further projects.
+Although we were not able to see exactly the difference in Doyle's writing style that I expected to see, it was highly valuable to see the trends of each word and especially, the number of appearances of each word throughout the corpus. I personally consider that this tool will be essential any time I analyze texts and works from any author and even in multiple languages. I hope I can keep getting familiarized with the concept of textual analysis and I wish to apply it in further projects.
 
 ## References
 
