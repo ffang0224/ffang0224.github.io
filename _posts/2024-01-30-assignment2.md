@@ -8,9 +8,6 @@ tags:
   - data
 ---
 
-
-# Assignment #2: Exploring Textual Data from a Custom Corpus
-
 - [Introduction](#introduction)
 - [Analysis](#analysis)
 - [Conclusion and Learnings](#conclusion-and-learnings)
