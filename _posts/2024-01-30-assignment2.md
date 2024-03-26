@@ -47,7 +47,6 @@ In this part, we worked with **Voyant Tools** in order to textually analyze the 
 *"The Memoirs of Sherlock Holmes"*
 ---
 
-\
 ![all texts](/assets\images\alltexts.png)
 
 This **word cloud** we see here presents the 95 most common terms throughout the 3 works. We can clearly see various common words that at first glance might not provide much useful information, but once we put them in context they are more meaningful than they look.
