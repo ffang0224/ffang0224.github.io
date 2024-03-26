@@ -116,5 +116,7 @@ Although we were not able to see exactly the difference in Doyle's writing style
 - Harrison, Michael (1973). The World of Sherlock Holmes. London: Frederick Muller Ltd.
 - Shaw, John B. (1995). Encyclopedia of Sherlock Holmes: A Complete Guide to the World of the Great Detective. London: Pavilion Books. ISBN 1-85793-502-0.
 - Drucker, J. (2021). The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship (1st ed.). Routledge. https://doi.org/10.4324/9781003106531
-- Ricaurte, Paola, et al. Global Debates in the Digital Humanities. University of Minnesota Press, 2022. Project MUSE muse.jhu.edu/book/100081.
+- Ricaurte, Paola, et al. Global Debates in the Digital Humanities. University of Minnesota Press, 2022. Project MUSE muse.jhu.edu/book/100081. 
+
+
 **READY FOR GRADING**
