@@ -70,7 +70,7 @@ The book's title derives from a speech given by Holmes, a consulting detective, 
 
 ---
 
-Looking through a more general perspective, we can derive some information from other tools in **Voyant Tools**. For example, the place where find the occurrences of certain words can help us determine some information.
+Looking through a more general perspective, we can derive some information from other tools in **Voyant Tools**. For example, the place where find the occurrences of certain words can help us determine some information. Similarly to the Google Books Ngram Viewer (Week 4), we can check on the frequencies of any set of search strings in the corpus.
 
 <iframe style='width: 509px; height: 366px;' src='https://voyant-tools.org/tool/MicroSearch/?lang=en&query=sherlock*&panels=corpusterms%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=d2010ebf841098c77408308469ac183e'></iframe>
 
@@ -100,7 +100,7 @@ By looking at the text through these tools, we can notice things that are imposs
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?lang=en&panels=cirrus%2Creader%2Cmicrosearch%2Csummary%2Ccontexts&corpus=d2010ebf841098c77408308469ac183e'></iframe>
 
-Although we were not able to see exactly the difference in Doyle's writing style that I expected to see, it was highly valuable to see the trends of each word and especially, the number of appearances of each word throughout the corpus. I personally consider that this tool will be essential any time I analyze texts and works from any author and even in multiple languages. I hope I can keep getting familiarized with the concept of textual analysis and I wish to apply it in further projects.
+Although we were not able to see exactly the difference in Doyle's writing style that I expected to see, it was highly valuable to see the trends of each word and especially, the number of appearances of each word throughout the corpus. If we recall on Johanna Drucker's post, we will see that the visualization of the data itself might be equally or even more important than the raw information itself. Instead, sometimes, the biggest challenge resides in producing "graphics that are appropiate to the research task and communication of arguments" (Drucker:100). I personally consider that this tool will be essential any time I analyze texts and works from any author and even in multiple languages. I hope I can keep getting familiarized with the concept of textual analysis and I wish to apply it in further projects.
 
 ## References
 
@@ -115,5 +115,6 @@ Although we were not able to see exactly the difference in Doyle's writing style
 - Accardo, Pasquale J. (1987). Diagnosis and Detection: Medical Iconography of Sherlock Holmes. Madison, NJ: Fairleigh Dickinson University Press. ISBN 0-517-50291-7.
 - Harrison, Michael (1973). The World of Sherlock Holmes. London: Frederick Muller Ltd.
 - Shaw, John B. (1995). Encyclopedia of Sherlock Holmes: A Complete Guide to the World of the Great Detective. London: Pavilion Books. ISBN 1-85793-502-0.
-
+- Drucker, J. (2021). The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship (1st ed.). Routledge. https://doi.org/10.4324/9781003106531
+- Ricaurte, Paola, et al. Global Debates in the Digital Humanities. University of Minnesota Press, 2022. Project MUSE muse.jhu.edu/book/100081.
 **READY FOR GRADING**
