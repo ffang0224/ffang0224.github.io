@@ -9,15 +9,15 @@ tags:
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-toc_icon: "Bookmark"
+toc_icon: "bookmark"
 ---
 
 # Assignment 2: Exploring Textual Data from a Custom Corpus
 
-- [Introduction](#introduction)
+<!--- [Introduction](#introduction)
 - [Analysis](#analysis)
 - [Conclusion and Learnings](#conclusion-and-learnings)
-- [References](#references)
+- [References](#references) -->
 ## Introduction
 
 This assignment will focus on the works of writer Arthur Conan Doyle, commonly known for creating the character Sherlock Holmes, arguably the most popular fictional detective of all time. Specifically, we will be diving into the textual characteristics of 3 of his most known works, identifying the differences, the context, and the information this data brings to our knowledge of the author. 
