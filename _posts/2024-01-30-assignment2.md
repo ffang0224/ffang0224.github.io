@@ -8,16 +8,13 @@ tags:
   - data
 toc: true
 toc_label: "Contents"
-toc_sticky: false
+toc_sticky: true
 toc_icon: "bookmark"
 ---
-
-# Assignment #2: Exploring Textual Data from a Custom Corpus
-
-- [Introduction](#introduction)
+<!-- - [Introduction](#introduction)
 - [Analysis](#analysis)
 - [Conclusion and Learnings](#conclusion-and-learnings)
-- [References](#references) 
+- [References](#references)  -->
 ## Introduction
 
 This assignment will focus on the works of writer Arthur Conan Doyle, commonly known for creating the character Sherlock Holmes, arguably the most popular fictional detective of all time. Specifically, we will be diving into the textual characteristics of 3 of his most known works, identifying the differences, the context, and the information this data brings to our knowledge of the author. 
@@ -29,7 +26,7 @@ First and foremost, we will present the 3 texts we will be working with througho
 - ***The Adventures of Sherlock Holmes***: A collection of short stories published in 1892.  It contains the earliest short stories featuring the detective Sherlock Holmes, earning immense popularity for both Sherlock Holmes and Dr. Watson.
 - ***The Memoirs of Sherlock Holmes***: A collection of short stories first published late in 1893. Initially supposed to be the last Sherlock Holmes story, this book presents 12 stories that ultimately end with the "death" of Sherlock Holmes.
 
-### Rationale:
+<span style="font-size:1.5em;font-weight:bold;">Rationale:</span><br>
 Arthur Conan Doyle is one of the, if not the most popular writers in the history of crime fiction. His works transcended language and race, and his character, *Sherlock Holmes*, went on to become the most famous (fictional or not) detective of all time.\
 One of the biggest motives behind choosing his works as study subjects is the variety of content he presented throughout his career. In 1891, Doyle intended to kill *Sherlock Holmes*, so he raised his price to a level intended to discourage the publishers that demanding more stories. However,  he later realized they were willing to pay even the large sums he asked, forcing him to create multiple plot twists that made *Sherlock Holmes* stories a rollercoaster of events.
 
