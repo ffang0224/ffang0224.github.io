@@ -24,7 +24,8 @@ Our critical reflection on our current abilities leads us to appreciate the conc
 
 As with all technologies, it was crucial for us to understand the weaknesess and characteristics of the tools we were using. This included, of course, responsible use of our means. An example of this would be the current discourse regarding the [use of AI in the fields of Arts and Humanities](https://theconversation.com/how-ai-is-hijacking-art-history-170691). As much as we have learned the deep implications of our newly-found abilities, it was equally as important to learn how to use our technology for the greater good. For instance, by helping to [map](https://tasks.hotosm.org/) vulnables hotspots around the world that are not currrently availble in the maps online, we are contributing to the humanitarian help programs that work in the area. This should, in all cases, be our main objective: to provide, to contribute and to utilize our powers to push forward and achieve things that would otherwise be impossible without our help.
 
-Once we are aware of our objectives, it was crucial to understand how far they can go and their limitations. The "[Golden Hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument)" law, also called "Law of the Instrument" or "Maslow's hammer", is a cognitive bias that involves over-reliance on a familiar tool. This means, basically, that we tend to use tools that we are familiar with over ones that might be more suitable for the job. Of course we have learned all the good things about our technologies, but also, in what cases they fail. We worked with [Voyant Tools](https://voyant-tools.org/) and we were able to work with all the amazing capabilities, but also, we have learned that there are cases where it is lacking, such as forms of data that are not _only_ plain text.
+Once we are aware of our objectives, it was crucial to understand how far they can go and their limitations. The "[Golden Hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument)" law, also called "Law of the Instrument" or "Maslow's hammer", is a cognitive bias that involves over-reliance on a familiar tool. This means, basically, that we tend to use tools that we are familiar with over ones that might be more suitable for the job. Of course we have learned all the good things about our technologies, but also, in what cases they fail. We worked with [Voyant Tools](https://voyant-tools.org/) and we were able to work with all the amazing capabilities, but also, we have learned that there are cases where it is lacking, such as forms of data that are not _only_ plain text. \
+In order to avoid using the wrong tools, it was primordial for us to learn not only in which cases they work, but also, in what cases we should refrain from using them. 
 
 ### _Learnings_
 
@@ -39,5 +40,8 @@ Looking ahead, I am excited to continue our exploration of new ways of thinking 
 ### _Conclusion_
 
 In conclusion, our journey through digital humanities will prove to be transformative. It expands our horizons, bridges the gap between technology and the humanities, and equips us with a multifaceted understanding of digital literacy. As we continue to navigate the digital landscape, we are poised to embrace new ways of thinking and working that promote interdisciplinary collaboration and responsible digital citizenship. In the age of AI, we are ready to embrace the challenges and opportunities that lie ahead.
+<br>
+
+***Disclosure: This content was based off AI-generated text by ChatGPT 3.5 and modified manually.*** 
 
 **READY FOR GRADING**
